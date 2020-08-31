@@ -8,4 +8,3 @@ class MyServer
   end 
 end 
 
-run MyServer.new 
